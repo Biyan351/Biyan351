@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biyan2444
-- 👀 I’m interested in app development, web analytic, digital marketing, and cyber security
-- 🌱 I’m currently learning penetration testing
+- 👀 I’m interested in web/app development, web analytic, digital marketing, and cyber security
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on digital bussiness
 - 📫 How to reach me : email
 
