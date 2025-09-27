@@ -1,18 +1,37 @@
-Hello Hello Hi, I’m @Biyan351
-- curently labor inspector in west kalimantan province
-- I shamelessly use canva and odoo for work 🥸
-- my work portofolio:
-    - https://sippda.kalbarprov.go.id
-    - https://www.instagram.com/jabuborneosolusi
+# 👋 Halo, saya Biyan!
 
+Saya seorang systems thinker dan educator yang menggabungkan regulasi keselamatan kerja, teknologi digital, dan komunikasi visual. Saat ini saya sedang aktif mengembangkan solusi IoT untuk manajemen banjir, automasi email scraping untuk audit, dan integrasi payment gateway ke aplikasi custom.
 
-- 👀 I’m interested in web/app development, web analytic, digital marketing, and cyber security
-- 💞️ I’m looking to collaborate on digital bussiness
-- 👋 How to reach me :
-    - 📫 gelungsaktibiyan@gmail.com
-    - 📞 +62 812 2277 2286
+---
 
-<!---
-Biyan2444/Biyan2444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Keahlian Utama
+- Regulatory compliance & safety (Permenaker, OSHA, ISO, ASME, ANSI, IEC)
+- Visual content creation: infografis, template, laporan teknis
+- App development: SwiftUI, Core Data, API integration
+- IoT & automasi: ESP32, sensor air, email scoring
+- Strategic systems analysis (terinspirasi dari dunia gaming)
+
+---
+
+### 📦 Proyek Unggulan
+- **IoT Flood Monitor** – Sensor air + dashboard WiFi untuk peringatan dini
+- **Email Audit Scraper** – Automasi scraping, scoring, dan pelaporan email
+- **K3 Inspection Toolkit** – Template digital untuk inspeksi alat berat sesuai standar nasional & internasional
+- **Payment Gateway Integration** – Midtrans & Xendit backend/frontend untuk aplikasi pelatihan
+
+---
+
+### 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Kontak & Koneksi
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gelungsaktibiyan/)
+- 📧 Email: gelungsaktibiyan@gmail.com
+- 📁 Portofolio: https://github.com/Biyan351
+
+---
+
+> _“Belajar bukan hanya soal memahami, tapi soal memberi dampak nyata.”_
+
